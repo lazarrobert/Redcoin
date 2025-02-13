@@ -1,0 +1,21 @@
+{
+  "name": "Redcoin",
+  "symbol": "RDC",
+  "description": "The future of fast and secure digital transactions.",
+  "image": "https://raw.githubusercontent.com/lazarrobert/Redcoin/main/redcoin.png?raw=true",
+  "alternative_image": "https://github.com/lazarrobert/Redcoin/raw/main/redcoin.png",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "Ultra-Fast"
+    },
+    {
+      "trait_type": "Security",
+      "value": "High-Level Encryption"
+    },
+    {
+      "trait_type": "Adoption",
+      "value": "Growing Rapidly"
+    }
+  ]
+}
